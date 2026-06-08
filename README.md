@@ -16,7 +16,11 @@
   <img alt="Fikri-Rouzan's GitHub Streak" src="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=nightowl&hide_border=true" />
 </picture>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=8&layout=compact&theme=nightowl&hide_border=true" alt="Fikri-Rouzan's Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=8&layout=compact&theme=nightowl&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=8&layout=compact&theme=buefy&hide_border=true">
+  <img alt="Fikri-Rouzan's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=8&layout=compact&theme=nightowl&hide_border=true" />
+</picture>
 
 ---
 
