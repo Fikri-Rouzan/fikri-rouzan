@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&include_all_commits=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true">
   <img alt="Fikri-Rouzan's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&include_all_commits=true&hide_border=true" />
 </picture>
 
