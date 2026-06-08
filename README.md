@@ -2,9 +2,13 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" alt="Fikri-Rouzan's GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&include_all_commits=true&hide_border=true">
+  <img alt="Fikri-Rouzan's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&include_all_commits=true&hide_border=true" />
+</picture>
 
 <img src="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=nightowl&hide_border=true" alt="Fikri-Rouzan's GitHub Streak" />
 
@@ -12,13 +16,13 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Fikri-Rouzan&theme=dracula&no-frame=true&row=1&column=9" alt="Fikri-Rouzan's GitHub Trophies" />
 
 ---
 
-### 🎯 GitHub Activity
+## 🎯 GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fikri-Rouzan&theme=nightowl&area=true&hide_border=true" alt="Fikri-Rouzan's Activity Graph" />
 
