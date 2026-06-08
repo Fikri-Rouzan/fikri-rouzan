@@ -36,7 +36,11 @@
 
 ## 🎯 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fikri-Rouzan&theme=nightowl&area=true&hide_border=true" alt="Fikri-Rouzan's Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fikri-Rouzan&theme=nightowl&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fikri-Rouzan&theme=minimal&area=true&hide_border=true">
+  <img alt="Fikri-Rouzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Fikri-Rouzan&theme=nightowl&area=true&hide_border=true" />
+</picture>
 
 ---
 
