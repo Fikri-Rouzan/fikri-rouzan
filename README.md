@@ -4,23 +4,30 @@
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true">
-  <img alt="Fikri-Rouzan's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=nightowl&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=buefy&hide_border=true">
-  <img alt="Fikri-Rouzan's GitHub Streak" src="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=nightowl&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=nightowl&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=buefy&hide_border=true">
-  <img alt="Fikri-Rouzan's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=nightowl&hide_border=true" />
-</picture>
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true">
+        <img alt="Fikri-Rouzan's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" />
+      </picture>
+      <br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=nightowl&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=buefy&hide_border=true">
+        <img alt="Fikri-Rouzan's GitHub Streak" src="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=nightowl&hide_border=true" />
+      </picture>
+    </td>
+    <td valign="top" width="45%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=nightowl&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=buefy&hide_border=true">
+        <img alt="Fikri-Rouzan's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=nightowl&hide_border=true" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
