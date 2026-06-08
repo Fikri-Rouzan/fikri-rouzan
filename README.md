@@ -26,7 +26,11 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Fikri-Rouzan&theme=dracula&no-frame=true&row=1&column=9" alt="Fikri-Rouzan's GitHub Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-fork-two.vercel.app/?username=Fikri-Rouzan&theme=dracula&no-frame=true&row=1&column=9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-fork-two.vercel.app/?username=Fikri-Rouzan&theme=flat&no-frame=true&row=1&column=9">
+  <img alt="Fikri-Rouzan's GitHub Trophies" src="https://github-profile-trophy-fork-two.vercel.app/?username=Fikri-Rouzan&theme=dracula&no-frame=true&row=1&column=9" />
+</picture>
 
 ---
 
