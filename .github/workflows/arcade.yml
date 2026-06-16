@@ -28,6 +28,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
-          build_dir: dist
+          build_dir: ${{ github.workspace }}/dist
+          absolute_build_dir: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
