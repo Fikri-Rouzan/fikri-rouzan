@@ -43,15 +43,15 @@
 ## 🎯 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fikri-Rouzan&theme=nightowl&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fikri-Rouzan&theme=minimal&area=true&hide_border=true">
-  <img alt="Fikri-Rouzan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Fikri-Rouzan&theme=nightowl&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/activity-output/activity-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/activity-output/activity-graph-light.svg">
+  <img alt="Fikri-Rouzan's Activity Graph" src="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/activity-output/activity-graph-dark.svg" />
 </picture>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/Fikri-Rouzan/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/Fikri-Rouzan/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fikri-Rouzan/Fikri-Rouzan/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Fikri-Rouzan's Pacman Contribution Graph" src="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/pacman-output/pacman-contribution-graph.svg">
 </picture>
