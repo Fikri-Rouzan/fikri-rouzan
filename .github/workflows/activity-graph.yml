@@ -1,4 +1,4 @@
-name: Update Activity Graph
+name: Update activity graph
 
 on:
   schedule: # Run every 12 hours
@@ -10,13 +10,13 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-
     permissions:
       contents: write
+    runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@v6
 
       # Generate dark version
       - name: Generate activity graph (Dark)
