@@ -31,6 +31,8 @@
     </a>
 </div>
 
+<br>
+
 <div align="center">
     <!-- Profile Views -->
     <picture>
