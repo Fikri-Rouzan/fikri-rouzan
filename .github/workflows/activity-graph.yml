@@ -1,4 +1,4 @@
-name: Update activity graph
+name: Generate Activity Graph
 
 on:
   schedule: # Run every 12 hours
@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       # Generate dark version
       - name: Generate activity graph (Dark)
@@ -36,7 +36,7 @@ jobs:
           output_path: dist/activity-graph-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: activity-output

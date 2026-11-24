@@ -7,11 +7,13 @@
 <table>
   <tr>
     <td valign="top" width="55%">
+      <!-- GitHub Stats -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true">
-        <img alt="Fikri-Rouzan's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true">
+        <img alt="Fikri-Rouzan's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Fikri-Rouzan&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" />
       </picture>
+      <!-- GitHub Streak -->
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=nightowl&hide_border=true">
         <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Fikri-Rouzan&theme=buefy&hide_border=true">
@@ -19,10 +21,11 @@
       </picture>
     </td>
     <td valign="top" width="45%">
+      <!-- Top Languages -->
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=nightowl&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=buefy&hide_border=true">
-        <img alt="Fikri-Rouzan's Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=nightowl&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=nightowl&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=buefy&hide_border=true">
+        <img alt="Fikri-Rouzan's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fikri-Rouzan&langs_count=10&layout=compact&theme=nightowl&hide_border=true" />
       </picture>
     </td>
   </tr>
@@ -32,6 +35,7 @@
 
 ## 🏆 GitHub Trophies
 
+<!-- GitHub Trophies -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-unserori.vercel.app/?username=Fikri-Rouzan&theme=dracula&no-frame=true&row=1&column=9">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-unserori.vercel.app/?username=Fikri-Rouzan&no-frame=true&row=1&column=9">
@@ -42,6 +46,7 @@
 
 ## 🎯 GitHub Activity
 
+<!-- GitHub Activity Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/activity-output/activity-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/activity-output/activity-graph-light.svg">
@@ -50,6 +55,7 @@
 
 ---
 
+<!-- Pacman Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fikri-Rouzan/fikri-rouzan/pacman-output/pacman-contribution-graph.svg">
