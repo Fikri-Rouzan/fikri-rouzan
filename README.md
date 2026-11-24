@@ -41,6 +41,38 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,typescript,bootstrap,tailwindcss,reactjs,nextjs,svelte,vuejs,alpinejs&radius=40" alt="Frontend" />
+
+### ⚙️ Backend
+
+<img src="https://skills.syvixor.com/api/icons?i=php,nodejs,laravel,nestjs,hono,expressjs&radius=40" alt="Backend" />
+
+### 📱 Mobile
+
+<img src="https://skills.syvixor.com/api/icons?i=kotlin,dart,jetpackcompose,flutter&radius=40" alt="Mobile" />
+
+### 🧠 Data Science &amp; AI
+
+<img src="https://skills.syvixor.com/api/icons?i=python,jupyter,streamlit,numpy,scipy,pandas,plotly,matplotlib,seaborn,tensorflow,pytorch,opencv,scikitlearn&radius=40" alt="Data Science & AI" />
+
+### 🗄️ Database
+
+<img src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,prisma,neon,supabase,firebase&radius=40" alt="Database" />
+
+### 🔧 DevOps &amp; Tools
+
+<img src="https://skills.syvixor.com/api/icons?i=git,docker,googlecolaboratory,datastudio,tableau,postman,figma&radius=40" alt="DevOps & Tools" />
+
+### ☁️ Cloud &amp; Hosting
+
+<img src="https://skills.syvixor.com/api/icons?i=amazonwebservices,huggingface,railway,cloudflare,vercel,netlify&radius=40" alt="Cloud & Hosting" />
+
+---
+
 ## 📊 GitHub Stats
 
 <table>
