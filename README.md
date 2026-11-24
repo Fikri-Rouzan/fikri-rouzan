@@ -16,6 +16,29 @@
   </picture>
 </p>
 
+<br>
+
+<div align="center">
+    <!-- Profile Views -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Fikri-Rouzan&style=for-the-badge&color=BD93F9">
+      <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Fikri-Rouzan&style=for-the-badge&color=644AC9">
+      <img alt="Fikri-Rouzan's Profile Views" src="https://komarev.com/ghpvc/?username=Fikri-Rouzan&style=for-the-badge&color=BD93F9" />
+    </picture>
+    <!-- Followers -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/Fikri-Rouzan?style=for-the-badge&color=BD93F9">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Fikri-Rouzan?style=for-the-badge&color=644AC9">
+      <img alt="Fikri-Rouzan's Followers" src="https://img.shields.io/github/followers/Fikri-Rouzan?style=for-the-badge&color=BD93F9" />
+    </picture>
+    <!-- Stars -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/Fikri-Rouzan?style=for-the-badge&color=BD93F9">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/Fikri-Rouzan?style=for-the-badge&color=644AC9">
+      <img alt="Fikri-Rouzan's Stars" src="https://img.shields.io/github/stars/Fikri-Rouzan?style=for-the-badge&color=BD93F9" />
+    </picture>
+</div>
+
 ---
 
 ## 📊 GitHub Stats
