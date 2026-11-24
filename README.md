@@ -18,6 +18,19 @@
 
 <br>
 
+<!-- Socials -->
+<div align="center">
+    <a href="mailto:fikrirzn@gmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/fikrirouzan">
+        <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/linkedin-0A66C2?style=for-the-badge&logo=white-linkedin&logoColor=white" />
+    </a>
+    <a href="https://scholar.google.co.id/citations?user=OmyVfqoAAAAJ">
+        <img alt="Google Scholar" src="https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+    </a>
+</div>
+
 <div align="center">
     <!-- Profile Views -->
     <picture>
