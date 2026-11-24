@@ -1,4 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=20&text=Muhammad%20Fikri%20Rouzan%20Ash%20Shidik&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20Full-Stack%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<!-- Name -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2000&pause=&color=BD93F9&center=true&vCenter=true&repeat=false&width=520&height=40&lines=Muhammad+Fikri+Rouzan+Ash+Shidik">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2000&pause=&color=644AC9&center=true&vCenter=true&repeat=false&width=520&height=40&lines=Muhammad+Fikri+Rouzan+Ash+Shidik">
+    <img alt="Fikri-Rouzan" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2000&pause=&color=BD93F9&center=true&vCenter=true&repeat=false&width=520&height=40&lines=Muhammad+Fikri+Rouzan+Ash+Shidik" />
+  </picture>
+</p>
+
+<!-- Roles -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=380&height=35&lines=Data+Scientist;Full-Stack+Web+Developer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=644AC9&center=true&vCenter=true&width=380&height=35&lines=Data+Scientist;Full-Stack+Web+Developer">
+    <img alt="Fikri-Rouzan's Roles" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=380&height=35&lines=Data+Scientist;Full-Stack+Web+Developer" />
+  </picture>
+</p>
 
 ---
 
